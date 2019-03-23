@@ -1,0 +1,50 @@
+body
+  {
+    margin: 0;
+    padding: 0;
+    background: url(4.jpg) no-repeat;
+    background-size: cover;
+    padding:20px;
+  }
+  .box{
+      width: 1500px;
+      background: rgba(100, 147, 147, 0.425);
+      padding: 40px;
+      text-align: center;
+      margin: auto;
+      margin-top: 5%;
+      color: white;
+      font-family: 'Century Gothic',sans-serif;
+    }
+
+  th
+  {
+    color: black;
+  }
+  tbody
+  {
+    color: black;
+  }
+
+  h1 
+  {
+   text-align: center;
+  }
+ 
+  #icon
+  {
+    width: 30px;
+    margin-top: 6px;
+  }
+
+  #footer 
+  {
+    height: 50px;
+    margin: center;
+  }
+
+  #footer1
+  {
+    margin :center;
+    padding: 5px;
+  }
